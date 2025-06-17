@@ -1,0 +1,16 @@
+com/example/demo/controller/ApiController.class
+com/example/demo/model/OutstandingFee.class
+com/example/demo/repository/UserRepository.class
+com/example/demo/model/Enrollment.class
+com/example/demo/controller/ErrorResponse.class
+com/example/demo/config/JwtAuthenticationFilter.class
+com/example/demo/service/SoftwareEngineeringService.class
+com/example/demo/model/Student.class
+com/example/demo/DemoApplication.class
+com/example/demo/config/SecurityConfig.class
+com/example/demo/service/FeeService.class
+com/example/demo/controller/UserRequest.class
+com/example/demo/model/Course.class
+com/example/demo/model/User.class
+com/example/demo/model/LecturerCourse.class
+com/example/demo/service/UserService.class
