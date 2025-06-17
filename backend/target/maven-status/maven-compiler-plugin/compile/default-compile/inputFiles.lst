@@ -1,0 +1,14 @@
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/DemoApplication.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/config/JwtAuthenticationFilter.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/config/SecurityConfig.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/controller/ApiController.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/model/Course.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/model/Enrollment.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/model/LecturerCourse.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/model/OutstandingFee.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/model/Student.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/model/User.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/repository/UserRepository.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/service/FeeService.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/service/SoftwareEngineeringService.java
+/Volumes/MacOs/Users/alfreddarkwa/Desktop/UG/L200S2/CPEN208-Software Engineerng/my-app/backend/src/main/java/com/example/demo/service/UserService.java
